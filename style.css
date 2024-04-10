@@ -6,5 +6,9 @@
     .subtitulo{
     text-align: center;
     font-size: 110%;
-
+    
+    }
+    .introdução{
+        text-align: center;
+        font-size: 30px;
     }
